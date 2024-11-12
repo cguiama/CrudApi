@@ -1,4 +1,4 @@
-package japa.api.crud;
+package java.api.crud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
